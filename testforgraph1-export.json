@@ -1,0 +1,20 @@
+{
+  "candidates" : {
+    "candidate1" : {
+      "name" : "candidate A",
+      "points" : 90
+    },
+    "candidate2" : {
+      "name" : "candidate B",
+      "points" : 64
+    },
+    "candidate3" : {
+      "name" : "candidate C",
+      "points" : 24
+    },
+    "candidate4" : {
+      "name" : "candidate D",
+      "points" : 71
+    }
+  }
+}
